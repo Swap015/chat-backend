@@ -2,3 +2,6 @@ node_modules/
 * text=auto
 # Environment files
 .env
+
+package.json
+package-lock.json
