@@ -1,0 +1,4 @@
+node_modules/
+* text=auto
+# Environment files
+.env
